@@ -6,7 +6,7 @@ from openai import OpenAI
 # -----------------------------
 API_KEY = "[CHATGPT-API-KEY]"  # Replace with your actual API key
 MODEL_NAME = "gpt-4o"
-FILE_PATH = "EHSample/DOT ACCIDENTS HISTORY REPORT.csv"
+FILE_PATH = "DOT ACCIDENTS HISTORY REPORT.csv"
 SAMPLE_SIZE = 5
 
 # Initialize OpenAI client
